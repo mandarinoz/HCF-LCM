@@ -4,3 +4,6 @@ This program inputs two numbers from the user and print their HCF(Highest Common
 ## Authors
 
 - [@mandarinoz](https://www.github.com/mandarinoz)
+
+## Demo
+![GIF HCF](https://user-images.githubusercontent.com/122726886/214234197-a87cb67a-ac7e-4ad1-8fee-8d3acc5d956d.gif)
