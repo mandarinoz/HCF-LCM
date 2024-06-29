@@ -9,7 +9,7 @@ else:
         smallest = y                         # finding smallest of two nums
     else:
         smallest = x
-    for i in range(1, smallest + 1):                  #1st loop  for finding HCF but it shoes only 1st common multiple
+    for i in range(1, smallest + 1):                  #1st loop  for finding HCF but it shows only 1st common multiple
         if (x % i == 0) and (y % i == 0):
             HCF = i
             for j in range(i, smallest + 1):            #2nd loop for finding HCF it shows highest common multiple
