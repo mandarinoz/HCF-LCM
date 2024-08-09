@@ -1,4 +1,4 @@
-# github: mandarinoz
+# github: mehsayanhoon
 # HCF and LCM of two numbers
 
 x, y = int(input("Enter x: ")), int(input("Enter y: "))        # Let two nums are x and y
